@@ -35,8 +35,8 @@
   --accent: #ACFC9C; /* Hover color */
   --bg: #19171a; /* Background color */
   --sbg: #201e21; /* Cards color */
-  --fg: #ACFC9C; /* Foreground color */
-  --sfg: #ACFC9C; /* Secondary Foreground color */
+  --fg: #0c2d1c; /* Foreground color */
+  --sfg: #0c2d1c; /* Secondary Foreground color */
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.7),
     rgba(0, 0, 0, 0.7)
